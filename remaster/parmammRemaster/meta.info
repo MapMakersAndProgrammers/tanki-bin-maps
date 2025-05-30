@@ -1,0 +1,53 @@
+[ {
+  "name" : "Atlas_0-alpha-etc1.ktx",
+  "size" : 5592568,
+  "md5" : "c99a6921010d08bf3a3589a9cd5ff0b2"
+}, {
+  "name" : "Atlas_0-astc.ktx",
+  "size" : 11185012,
+  "md5" : "fe6f9540253580afbd954a7b1f0827ae"
+}, {
+  "name" : "Atlas_0-etc1.ktx",
+  "size" : 5592568,
+  "md5" : "dc7c62189fa71ff77b0b13fafd367a17"
+}, {
+  "name" : "Atlas_0.webp",
+  "size" : 3940926,
+  "md5" : "55cd7f3d36d088024763531270dae8e8"
+}, {
+  "name" : "Atlas_1-alpha-etc1.ktx",
+  "size" : 349680,
+  "md5" : "7db294fadca56627eb41865561dd4b41"
+}, {
+  "name" : "Atlas_1-astc.ktx",
+  "size" : 699244,
+  "md5" : "145b1aa4049642a64f2a8f3f8b234007"
+}, {
+  "name" : "Atlas_1-etc1.ktx",
+  "size" : 349680,
+  "md5" : "a411e904f98c5e2cb2d45b96d53ada80"
+}, {
+  "name" : "Atlas_1.webp",
+  "size" : 690640,
+  "md5" : "05a2c1a891dfd46062a98c441bf9734a"
+}, {
+  "name" : "lightmap-0_comp_light-astc.ktx",
+  "size" : 5592592,
+  "md5" : "61528d1d2ebdae33b09d327a82797f41"
+}, {
+  "name" : "lightmap-0_comp_light-etc1.ktx",
+  "size" : 2796356,
+  "md5" : "311122bef07404bf3c82055103f69c93"
+}, {
+  "name" : "lightmap-0_comp_light.webp",
+  "size" : 3703456,
+  "md5" : "4e017fdbc3e4fe2b1ec034bce00dc522"
+}, {
+  "name" : "lightmapdata",
+  "size" : 94360,
+  "md5" : "d1ea1a0f1d8799bd3db32ea4950d304f"
+}, {
+  "name" : "map.bin",
+  "size" : 1139280,
+  "md5" : "80fb6f62270eb708069d530ee636ec44"
+} ]
